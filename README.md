@@ -1,9 +1,5 @@
 # Lagrangian and impedance spectroscopy analysis and figures
 
-
-
-[![DOI](https://zenodo.org/badge/95897198.svg)](https://zenodo.org/badge/latestdoi/95897198)
-
 This repository contains the analysis and figures for the paper "Lagrangian and impedance spectroscpoy treatements 
 
 ## Installation
